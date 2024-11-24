@@ -1,4 +1,7 @@
-
+#include <iostream>
+#include <fstream>
+#include <vector>
+#include <map>
 
 void saveInFile(const string& filename, const Groups& groups)
 {
